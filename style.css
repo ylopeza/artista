@@ -1,0 +1,79 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+body{
+background-color: rgb(214, 214, 199);
+
+
+}
+.header{
+    background-color: rgb(112, 11, 7);
+    height: 100px;
+}
+
+.logo{
+    float: left;
+    padding: 10px;
+    width: 100px;
+    height: 70px;
+}
+
+.menu {
+    float: right;
+    margin: 45px;
+
+}
+
+.menu a{
+    color: rgb(148, 9, 9);
+    text-decoration: none;
+    padding: 45px;
+}
+
+.banner{
+    background-image: url(./IMG/Silvestre.jpg5.jpg);
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    height: 220;
+    background-repeat: no-repeat;
+    
+
+}
+
+.banner h1{
+    text-align: right;
+    font-size: 60px;
+    padding: 70px 290px 420px 190px;
+    color:rgb(80, 8, 3);
+
+}
+
+
+.biografia{
+    background-color: rgb(7, 7, 7);
+    color: white;
+    padding: 120px 100px 90px 100px
+    
+}
+
+.biografia h2{
+    text-align: center;
+    padding: 5px;
+}
+
+
+footer{
+    background-color: rgb(7, 7, 7);
+    color: rgb 60px  80px 80px 80px;
+    text-align: center;
+    padding: 120px 25px 25px 80px;
+}
+
+
+
+
